@@ -1,0 +1,7 @@
+.component-weekly-schedule {
+  width: 100%;
+
+  hr:nth-last-child(1) {
+    display: none;
+  }
+}
