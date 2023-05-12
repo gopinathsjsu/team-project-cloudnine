@@ -2,9 +2,9 @@
 
 # Team Members
 
-- Ira Sharma
-- Rahul Pillai 
-- Faizan Shaikh
+- Ira Sharma - 010766704
+- Rahul Pillai - 016068793
+- Faizan Shaikh - 016063372
 
 # Tools and Technology Used
 
@@ -65,5 +65,6 @@ The project features the following:
 - [Task Sheet](https://docs.google.com/spreadsheets/d/1bnaHbiBg4L10KodQxQyOlbMCJHo_MjjoPynfetbh9As/edit#gid=0)
 - [Project Journal](https://docs.google.com/document/d/1UCrBmKNIaadvgjLV32zHzWnkJnLav-Y9OGIYuWyirdE/edit)
 - [UI Wireframe](https://github.com/gopinathsjsu/team-project-cloudnine/files/11457813/wireframes.pdf)
+- [UI Screenshots](https://github.com/gopinathsjsu/team-project-cloudnine/tree/main/static/screenshots)
 
 
