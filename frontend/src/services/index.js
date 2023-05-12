@@ -1,8 +1,8 @@
 import axios from 'axios';
 import util from 'util';
 
-// axios.defaults.baseURL = 'http://10.0.0.27:8080/api';
-axios.defaults.baseURL = 'http://3.14.65.89:8080/api';
+axios.defaults.baseURL = 'http://10.0.0.27:8080/api';
+// axios.defaults.baseURL = 'http://3.14.65.89:8080/api';
 
 export default class {
 
